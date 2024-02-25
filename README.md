@@ -21,7 +21,7 @@ In questa repository GIT sono raccolti i materiali didattici creati per i **Labo
 
 
 ## Crediti
-Manuela Profir ha redatto il materiale della directory _CalcoloAnalogicoAtomiNeutri_ basandosi sul materiale proposto nella repository    e sulle lezioni di Pedro Lopez di Quera Inc. nel programma globale Womanium Quantum 2023.
+Manuela Profir ha redatto il materiale della directory _CalcoloAnalogicoAtomiNeutri_ basandosi sul materiale proposto nella repository  https://github.com/QuEraComputing/quera-education  e sulle lezioni di Pedro Lopez di Quera Inc. nel programma globale Womanium Quantum 2023.
 
 
 ## Licenza
