@@ -6,7 +6,7 @@ In questa repository GIT sono raccolti i materiali didattici creati per i **Labo
 
 | Contributori                 |      GithubiD         |        Email       |
 |-----------------------------|-----------------------|--------------------|
-| Manuela Profir               |                        |  manuela@crs4.it   |
+| Manuela Profir               |    ManuelaPro              |  manuela@crs4.it   |
 | Lorenzo Pisani                 |                      |   pisani@crs4.it   |
 | Giuliana Siddi Moreau         |   GSiddiMoreau        |  julie@crs4.it     |
 
