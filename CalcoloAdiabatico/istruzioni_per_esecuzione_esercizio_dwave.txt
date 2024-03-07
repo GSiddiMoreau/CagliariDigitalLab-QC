@@ -1,0 +1,43 @@
+Istruzioni per creazione account D-Wave e API token 
+Visitare https://cloud.dwavesys.com/leap/ e creare un account.
+Una volta che si è abilitati seguendo la procedura, copiare l’API token che compare nella colonna a sinistra. Salvarlo sul proprio computer.
+
+Istruzioni per la creazione di ambienti conda 
+Scaricare Anaconda da https://www.anaconda.com/download e installarlo (per gli utenti MAC, vedere le istruzioni in questo link https://conda.io/projects/conda/en/latest/user-guide/install/macos.html
+
+Una volta che si dispone sul proprio computer di un’Anaconda Terminal, lanciarlo.
+
+Creare un nuovo ambiente conda per il lab. 
+Comandi:
+
+conda create -n lab python=3.9
+conda activate lab
+pip install numpy matplotlib scikit-learn jupyter networkx dwave-ocean-sdk
+
+Configurare dwave-ocean-sdk. 
+Comandi:
+
+dwave setup
+
+Seguire l’installazione e dare in input tre y e il D-Wave API token prima copiato.
+
+Esecuzione notebook. 
+Comandi:
+
+jupyter notebook 
+
+Si aprirà una finestra del browser in cui è possibile navigare fino al file quantum_computing_adiabatico.ipynb
+
+Aprire il file all’interno dell’interfaccia e eseguirlo
+
+
+
+
+
+
+
+
+
+
+
+
