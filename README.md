@@ -27,6 +27,9 @@ Manuela Profir e Giuliana Siddi Moreau hanno redatto il materiale della director
 
 Lorenzo Pisani, Erminia Leonardi e Giuliana Siddi Moreau hanno redatto il materiale della directory _CalcoloAdiabatico_ basandosi sui seguenti materiali: materiale didattico di D-Wave, pagina Wikipedia sul Problema del Commesso Viaggiatore, pagina Wikipedia su Penalty Method, pagina Wikipedia su Vehicle Routing Problem, il codice di esempio [An approach to solve the Vehicle Routing Problem (VRP) using quantum computing](https://github.com/dwave-examples/D-Wave-VRP), Il Quantum annealing self study module redatto da [Qworld](https://qworld.net/).
 
+Giuliana Siddi Moreau ha redatto il materiale nella directory _QML_ sulla base dei seguenti materiali il dataset utilizzato in Mckinsey Analytics Online Hackathon, reperibile in Kaggle sotto il nome èSmart City Traffic Pattern]([https://www.kaggle.com/datasets/utathya/smart-city-traffic-patterns), il notebook realizzato su kaggle da KAVYAN, reperibile [qui](https://www.kaggle.com/code/kavya2004/traffic-pattern-prediction-96), il materiale didattico di [Qiskit Machine Learning](https://qiskit-community.github.io/qiskit-machine-learning/tutorials/02_neural_network_classifier_and_regressor.html)
+l'eccellente ispirazione trovata nei lavori di [Kevin Kawchak](https://github.com/kevinkawchak)
+
 
 ## Licenza
 vedi file LICENSE.md incluso nella repository.
