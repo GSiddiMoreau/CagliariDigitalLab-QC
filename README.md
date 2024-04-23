@@ -17,7 +17,7 @@ In questa repository GIT sono raccolti i materiali didattici creati per i **Labo
 |-----------------------------|-----------------------|--------------------|
 | CalcoloAnalogicoAtomiNeutri |    Sorgenti per esercitazione sul Maximum independent Set | julia |
 | CalcoloAdiabatico |    Sorgenti per esercitazione su TSP e MDCVRP | python |
-
+| QML |    Sorgenti per esercitazione su regressione e previsione  | python |
 
 
 
